@@ -7,7 +7,7 @@ import os
 
 def setup_plot_style():
     """Set up the style for all plots."""
-    plt.style.use('seaborn')
+    plt.style.use('ggplot')  # Use a default Matplotlib style
     sns.set_palette("husl")
     plt.rcParams['figure.figsize'] = (12, 8)
     plt.rcParams['font.size'] = 12

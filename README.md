@@ -21,6 +21,10 @@ This project demonstrates data analysis and visualization using Python, Pandas, 
    ```
    pip install -r requirements.txt
    ```
+   Ensure that seaborn is installed:
+   ```
+   pip install seaborn
+   ```
 
 ## Project Structure
 
