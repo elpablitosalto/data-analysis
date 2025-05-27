@@ -12,7 +12,12 @@ This project demonstrates data analysis and visualization using Python, Pandas, 
 ## Setup
 
 1. Install Python 3.8 or higher
-2. Install dependencies:
+2. Create a virtual environment:
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+3. Install dependencies:
    ```
    pip install -r requirements.txt
    ```
